@@ -43,9 +43,3 @@
 
 ---
 
-
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=GAD-cell&style=for-the-badge)
-
