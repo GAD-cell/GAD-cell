@@ -30,11 +30,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GAD-cell&theme=blue-green)](https://git.io/streak-stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=GAD-cell&theme=blue-green&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
