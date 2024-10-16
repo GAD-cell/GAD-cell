@@ -30,7 +30,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GAD-cell&theme=blue-green&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GAD-cell&theme=blue-green)](https://git.io/streak-stats)
 
 ---
 
