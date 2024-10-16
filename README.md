@@ -1,17 +1,4 @@
-# 👋 Welcome to My GitHub Profile!
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
-
-I'm **[Your Name]**, a passionate **[Your Role]** developer who loves to work on **[technologies or projects]**. I always aim to write clean, maintainable, and scalable code while continuously learning and improving.
-
----
-
-## 🚀 About Me
-
-- 🔭 I’m currently working on **[your current projects]**
-- 🌱 I’m learning **[technologies you’re currently learning]**
-- 👯 I’m looking to collaborate on **[projects or open source initiatives]**
-- ⚡ Fun fact: **[Something fun about you]**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> Hi, I'm Sinoué!
 
 ---
 
