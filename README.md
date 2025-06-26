@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Machine+Learning+Student;Deep+Learning+Explorer;AI+for+Good+Believer;Building+cool+things+with+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Machine+Learning+Student;Deep+Learning+Explorer;Building+cool+things+with+code" alt="Typing SVG" />
 </p>
 
 ---
