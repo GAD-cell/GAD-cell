@@ -13,4 +13,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gad-cell&show_icons=true&locale=en" alt="gad-cell" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gad-cell&" alt="gad-cell" /></p>
