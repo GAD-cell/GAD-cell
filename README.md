@@ -1,48 +1,55 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">, I'm Sinoué</h1>
-
----
-
-<h3 align="left">🧠 About Me</h3>
-<ul align="left">
-  <li>🎓 I'm a student at <strong>Télécom SudParis</strong>, specializing in <strong>Machine Learning</strong> and <strong>Artificial Intelligence</strong></li>
-  <li>🤖 Passionate about deep learning, supervised learning, and neural networks</li>
-  <li>🧠 Interested in real-world AI applications like <strong>Computer Vision</strong> and <strong>Natural Language Processing</strong></li>
-  <li>💻 Building hands-on projects to deepen my understanding and skills</li>
-</ul>
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sinoué-gad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sinoué-gad" height="30" width="40" /></a>
+<!-- Banner or headline -->
+<h1 align="center">
+  Hey there 👋, I'm <strong>Sinoué</strong>
+</h1>
+<p align="center">
+  🎓 Student @ <strong>Télécom SudParis</strong> | 🤖 AI & ML Enthusiast | 💡 Always Curious
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Machine+Learning+Student;Deep+Learning+Explorer;AI+for+Good+Believer;Building+cool+things+with+code" alt="Typing SVG" />
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🎓 I'm a student at **Télécom SudParis**, focused on **Machine Learning** & **Artificial Intelligence**
+- 🤖 Passionate about **deep learning**, **neural networks**, and **supervised learning**
+- 👁️ Working on real-world AI problems in **computer vision** & **NLP**
+- 🔬 Constantly exploring the frontiers of AI research
+- 🛠️ Learning by building – always hands-on
+
+---
+
+## 🌐 Connect with Me
+
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
+  <a href="https://linkedin.com/in/sinoué-gad" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gad-cell&show_icons=true&locale=en" alt="gad-cell" /></p>
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="40" alt="Unreal Engine"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gad-cell&show_icons=true&theme=default&locale=en" alt="GitHub Stats" />
+
+</p>
 
