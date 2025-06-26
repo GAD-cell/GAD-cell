@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-- 🎓 I'm a student at **Télécom SudParis**, focused on **Machine Learning** & **Artificial Intelligence**
+- 🎓 CS engineer student at **Télécom SudParis**, focused on **Machine Learning** & **Artificial Intelligence**
 - 🤖 Passionate about **deep learning**, **neural networks**, and **supervised learning**
 - 👁️ Working on real-world AI problems in **computer vision** & **NLP**
 - 🛠️ Learning by building – always hands-on
