@@ -3,7 +3,7 @@
   Hey there 👋, I'm <strong>Sinoué</strong>
 </h1>
 <p align="center">
-  🎓 Student @ <strong>Télécom SudParis</strong> | 🤖 AI & ML Enthusiast | 💡 Always Curious
+  🎓 Student @ <strong>Télécom SudParis</strong> | 🤖 AI & ML Enthusiast 
 </p>
 
 <p align="center">
