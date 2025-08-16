@@ -13,9 +13,9 @@
 ---
 
 ## 🧠 About Me
-
-- 🎓 CS engineer student at **Télécom SudParis**, focused on **Machine Learning** & **Artificial Intelligence**
-- 🤖 Passionate about **deep learning**, **neural networks**, and **supervised learning**
+-  Msc Data science at **Ecole Polytechnique**, focused on **Machine Learning** & **Artificial Intelligence**.
+-  CS engineer from **Télécom SudParis**, 
+-  Passionate about **deep learning**, **neural networks**, and **supervised learning**
 
 ---
 
