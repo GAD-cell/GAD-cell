@@ -13,7 +13,7 @@
 ---
 
 ## 🧠 About Me
--  Msc Data science at **Ecole Polytechnique**, focused on **Machine Learning** & **Artificial Intelligence**.
+-  Msc Data science at **Ecole Polytechnique**, focused on **Machine Learning**.
 -  CS engineer from **Télécom SudParis**, 
 -  Passionate about **deep learning**, **neural networks**, and **supervised learning**
 
