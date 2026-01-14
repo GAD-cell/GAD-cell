@@ -35,8 +35,5 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gad-cell&show_icons=true&theme=default&locale=en" alt="GitHub Stats" />
-
-</p>
+[![stats](https://github-readme-stats.vercel.app/api?username=gad-cell)](https://github.com/anuraghazra/github-readme-stats)
 
